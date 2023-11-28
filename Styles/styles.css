@@ -27,5 +27,12 @@ h2{
     margin-left: 10px;
     color: pink;
 }
+p{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 50px;
+    margin-left: 10px;
+}
 
 
